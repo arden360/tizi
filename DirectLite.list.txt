@@ -1,0 +1,4 @@
+# 直连优先补充列表
+
+# 域名后缀匹配
+DOMAIN-SUFFIX,prod-files-secure.s3.us-west-2.amazonaws.com
